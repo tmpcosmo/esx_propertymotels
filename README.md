@@ -20,6 +20,8 @@
 - Add this to your `server.cfg`:
 
 ```
+start instance
+start mythic_progbar
 start esx_propertymotels
 ```
 
