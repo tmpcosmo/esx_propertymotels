@@ -9,6 +9,15 @@
 - [mythic_progbar] Included https://forum.fivem.net/t/dev-resource-mythic-progress-bar/527607 by Alzar
 - [pNotify] https://forum.fivem.net/t/release-pnotify-in-game-js-notifications-using-noty/20659
 
+## Known Issues
+
+I have had reports that there is some slight lag when you have rented a motel room, me myself experience no issues, however i am looking into it and hope to resolve it soon,
+This is my first LUA Project ive tried, so still learning the ropes a bit.
+
+## Future Plans
+Making property inventorys independent, -- im hoping this will allow stash houses to become a thing in RP.
+
+
 ## Download & Installation
 
 ### Manually
